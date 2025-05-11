@@ -100,8 +100,8 @@ Build web dashboard with live data updates
 
 **🤝 Contributors**
 
-S.Barathkrishna— Data collection Data Preprocessing, EDA, Trends
+S.Barathkrishna— Data collection Data Preprocessing, EDA
 
-M.Abubakkar Sithik— Correlation Analysis ,Visualization
+M.Abubakkar Sithik— Trends ,Correlation Analysis ,Visualization
 
 B.Rajumenan — Modeling,Presentation, Documentation
