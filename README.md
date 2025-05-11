@@ -68,6 +68,7 @@ Install required libraries:
 pip install -r requirements.txt
 
 Open the notebook:
+
 jupyter notebook market_trends_analysis.ipynb
 
 Run cells to process, visualize, and analyze the dataset
