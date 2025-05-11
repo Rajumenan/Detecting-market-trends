@@ -76,8 +76,7 @@ Run cells to process, visualize, and analyze the dataset
 **📂 Repository Structure**
 ├── marketdata.csv
 ├── market_trends_analysis.ipynb
-├── README.md
-└── requirements.txt
+└── README.md
 
 **📌 Future Enhancements**
 Integrate real-time economic APIs
