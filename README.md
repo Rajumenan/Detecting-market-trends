@@ -74,7 +74,7 @@ jupyter notebook market_trends_analysis.ipynb
 Run cells to process, visualize, and analyze the dataset
 
 **📂 Repository Structure**
-├── marketdata.csv
+├── marketdata.csv\n
 ├── market_trends_analysis.ipynb
 └── README.md
 
