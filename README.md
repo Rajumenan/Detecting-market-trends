@@ -76,9 +76,6 @@ Run cells to process, visualize, and analyze the dataset
 **📂 Repository Structure**
 ├── marketdata.csv
 ├── market_trends_analysis.ipynb
-├── visualizations/
-│ ├── gdp_vs_market.png
-│ └── correlation_heatmap.png
 ├── README.md
 └── requirements.txt
 
